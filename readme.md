@@ -16,9 +16,12 @@
    for cross domain requests.
    
    
-2. Install composer to handle autoload.
+2. Give full permission to project if need. sudo chmod -R 0777 ContactsBackend   
+  
+   
+3. Install composer to handle autoload.
 
 
-3. Setup correct db configs from db_params.php.
+4. Setup correct db configs from db_params.php.
    Use migration.sql queries to create required tables.
 
