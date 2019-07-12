@@ -1,0 +1,9 @@
+{
+    "name": "arthur/contacts-backend",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Contacts\\": ""
+        }
+    }
+}
